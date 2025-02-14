@@ -32,6 +32,10 @@
     transition: transform 150ms ease-in-out;
     cursor:pointer;
 }
+.static-building {
+    position: absolute;
+    z-index: 1;
+}
 
 .container-img{
     position: relative;
